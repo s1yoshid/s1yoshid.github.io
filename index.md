@@ -34,7 +34,7 @@ Hydejack is all static sites. _HTML_. All you need is a web server --- any web s
 
 ## Past Projects
 
-[Scriptor](https://s1yoshid.github.io/scriptor.md)
+[Scriptor](https://s1yoshid.github.io/s1yoshid.github.io-2/scriptor.md)
 
 Hydejack is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
 
