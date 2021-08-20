@@ -51,12 +51,14 @@ author:
 menu:
   - title:             About Me
     url:               /#about-me
-  - title:             Experience
-    url:               /#experience
+#  - title:             Experience
+#    url:               /#experience
   - title:             Projects
     url:               /#projects
   - title:             Key Skills
     url:               /#key-skills
+  - title:             Hobbies
+    url:               /#hobbies
 
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
@@ -191,7 +193,7 @@ hydejack:
   project_addons:      [about, newsletter, other, comments]
 
   # Set to `true` if you don't want to show an icon indicating external links
-  no_mark_external:    false
+  no_mark_external:    true
 
   # Set to `true` if third party plugins fail to work with dynamically loaded pages
   no_push_state:       false
