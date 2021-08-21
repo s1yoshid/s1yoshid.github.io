@@ -6,21 +6,19 @@ description: >
   or change the theme of an existing site.
 hide_description: true
 sitemap: false
-permalink: /get-posturized/
+permalink: /get-posturized
 ---
 
 **Get Posturized** is a prototype device that helps correct unhealthy posture and alleviates their negative effects. It uses a gyroscope to detect the optimal position relative to the body posture. The overall device was created using an Arduino Uno board and an MPU 6050 device.
 
-![alt-text-1](/projects/assets/img/test.jpg "title-1") ![alt-text-2](/projects/assets/img/test2.JPG "title-2")
+|                                              |                                               |
+|:--------------------------------------------:|:---------------------------------------------:|
+| ![alt-text-1](/projects/assets/img/test.jpg) | ![alt-text-2](/projects/assets/img/test2.JPG) |
 
-|                                                        |                                                         |
-|:------------------------------------------------------:|:-------------------------------------------------------:|
-| ![alt-text-1](/projects/assets/img/test.jpg "title-1") | ![alt-text-2](/projects/assets/img/test2.JPG "title-2") |
-
-<p float="left">
-  <img src="/projects/assets/img/test.jpg" width="350" />
-  <img src="/projects/assets/img/test2.JPG" width="450" /> 
-</p>
+<!---
+A caption for an image.
+{:.figcaption}
+-->
 
 ## How to Use
  * Using a t-shirt with pockets, preferably, put the Arduino side of the device into the pocket.

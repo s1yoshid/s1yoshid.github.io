@@ -6,7 +6,7 @@ description: >
   or change the theme of an existing site.
 hide_description: true
 sitemap: false
-permalink: /cpu/
+permalink: /cpu
 ---
 
 Hello 

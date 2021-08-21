@@ -6,6 +6,8 @@ description: >
   with a focus on personal sites that are meant to impress.
 hide_description: true
 ---
+<h2 class="h2" id="1">Site Under Construction!!!!! </h2>
+<h3 class="h3" id="2">Some text or pages may be unavaliable due to the site changing layouts. Apologies. </h3>
 
 <h1 class="h1" id="about-me">About Me </h1>
 
@@ -63,6 +65,6 @@ Hydejack is all static sites. _HTML_. All you need is a web server --- any web s
 
 Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
 
-[scriptor]: scriptor.md
+[scriptor]: /scriptor
 [get posturized]: /get-posturized
-[Superscalar In-order CPU]: cpu.md
+[Superscalar In-order CPU]: /cpu

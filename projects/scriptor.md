@@ -6,7 +6,7 @@ description: >
   or change the theme of an existing site.
 hide_description: true
 sitemap: false
-permalink: /scriptor/
+permalink: /scriptor
 ---
 
 **Scriptor** allows students to search for keywords and instantly be presented with the exact material they want. It returns precise timestamps in podcasts that match the information users seek, efficiently parsing through UCSD's vast database so students don't have to. It also includes a personalized interface, allowing users to favorite, save their history, and more.
