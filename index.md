@@ -64,5 +64,5 @@ Hydejack is all static sites. _HTML_. All you need is a web server --- any web s
 Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
 
 [scriptor]: scriptor.md
-[get posturized]: projects/get-posturized.md
+[get posturized]: /get-posturized
 [Superscalar In-order CPU]: cpu.md
