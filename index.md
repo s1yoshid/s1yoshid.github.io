@@ -23,11 +23,13 @@ Some of my hobbies include:
 * Disc golfing, which is a suprisingly fun and safe way to exercise during COVID
 * PC gaming 
 
+<!---
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
 {:.lead}
 
 Your complete presence on the web — A [blog], [portfolio], and [resume].
 {:.lead}
+-->
 
 [Résumé](assets/files/Resume.pdf){:.btn}
 
@@ -55,15 +57,17 @@ A superscalar in-order pipeline CPU with branch prediction, hardware prefetching
 
 <h1 class="h1" id="key-skills">Key Skills </h1>
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
+|       |       |
+|:-----------|:---------------|
+|**C, C++, Java, Python, CSS, HTML, Assembly**|**VHDL, Verilog, SystemVerilog**|
+|**MATLAB**|**Arduino**|
+|**Intel Quartus Prime**|**ModelSim**|
+|**PSpice**|**Signal Generator, Oscilloscope, Digital Multimeter**|
+{:.stretch-table}
 
 <h1 class="h1" id="hobbies">Hobbies </h1>
 
-**Hydejack** is 100% built on Open Source software, and is Open Source itself, save for parts of the PRO version. The PRO version is a one-time payment that gives you the right to use it forever.
-
-Hydejack is all static sites. _HTML_. All you need is a web server --- any web server --- to have a professional web presence that lasts a lifetime.
+**Under Construction**
 
 [scriptor]: /scriptor
 [get posturized]: /get-posturized
