@@ -13,15 +13,9 @@ hide_description: true
 
 What's up! I'm Shuusei but you can call me Shuu. I'm a recent graduate with a bachelor's degree (B.S.) in Computer Engineering from [University of California - San Diego](https://ucsd.edu). 
 
+First and foremost, I love to build and break things. Whether it be a computer or a pen, I have the utmost curiosity for how they work. I've definitely gotten in trouble many times because of this, but for the sake of knowledge I suppose. My current interest is in digital design and more specifically chip design. 
+
 I made this portfolio website because résumés can often times exclude fine details with such restricted space. Here you can find a lot more in-depth information on the projects I've worked on and just a little bit more about me.
-
-First and foremost, I love to build and break things. Whether it be a computer or a pen, I have the utmost curiosity for how they work. I've definitely gotten in trouble many times because of this, but for the sake of knowledge I suppose. My current interest is in hardware design and more specifically chip design. 
-
-Some of my hobbies include: 
-* PC building
-* Mechanical keyboard building, which I just started and already spent many monies
-* Disc golfing, which is a suprisingly fun and safe way to exercise during COVID
-* PC gaming 
 
 <!---
 > Your complete presence on the web — A [blog], [portfolio], and [resume].
@@ -59,7 +53,7 @@ A superscalar in-order pipeline CPU with branch prediction, hardware prefetching
 
 |       |       |
 |:-----------|:---------------|
-|**C, C++, Java, Python, CSS, HTML, Assembly**|**VHDL, Verilog, SystemVerilog**|
+|**C, C++, Java, Python**|**VHDL, Verilog, SystemVerilog**|
 |**MATLAB**|**Arduino**|
 |**Intel Quartus Prime**|**ModelSim**|
 |**PSpice**|**Signal Generator, Oscilloscope, Digital Multimeter**|
@@ -68,6 +62,17 @@ A superscalar in-order pipeline CPU with branch prediction, hardware prefetching
 <h1 class="h1" id="hobbies">Hobbies </h1>
 
 **Under Construction**
+
+## [Photography]{:.heading.flip-title}
+
+## [PC Building]{:.heading.flip-title}
+
+## Mechanical Keyboards
+
+## Dance
+
+[Photography]: /photography
+[pc building]: /pc
 
 [scriptor]: /scriptor
 [get posturized]: /get-posturized
