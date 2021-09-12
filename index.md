@@ -1,21 +1,23 @@
 ---
-layout: page
-name: Home Page
+layout: about
+#title: Welcome to my website!
 description: >
   A boutique Jekyll theme for hackers, nerds, and academics,
   with a focus on personal sites that are meant to impress.
 hide_description: true
+cover: true
+permalink: /
 ---
 <h2 class="h2" id="1">Site Under Construction!!!!! </h2>
 <h3 class="h3" id="2">Some text or pages may be unavaliable due to the site changing layouts. Apologies. </h3>
 
-<h1 class="h1" id="about-me">About Me </h1>
+<h1 class="h1" id="top">Welcome to my website! </h1>
 
 What's up! I'm Shuusei but you can call me Shuu. I'm a recent graduate with a bachelor's degree (B.S.) in Computer Engineering from [University of California - San Diego](https://ucsd.edu). 
 
-First and foremost, I love to build and break things. Whether it be a computer or a pen, I have the utmost curiosity for how they work. I've definitely gotten in trouble many times because of this, but for the sake of knowledge I suppose. My current interest is in digital design and more specifically chip design. 
-
 I made this portfolio website because résumés can often times exclude fine details with such restricted space. Here you can find a lot more in-depth information on the projects I've worked on and just a little bit more about me.
+
+I love to build and break things. Whether it be a computer or a pen, I have the utmost curiosity for how they work. I've definitely gotten in trouble many times because of this, but for the sake of knowledge I suppose. My current interest is in digital design and more specifically chip design.
 
 <!---
 > Your complete presence on the web — A [blog], [portfolio], and [resume].

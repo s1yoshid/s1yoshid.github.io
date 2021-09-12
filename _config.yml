@@ -50,7 +50,7 @@ author:
 # Add links to the sidebar.
 menu:
   - title:             About Me
-    url:               /#about-me
+    url:               /#top
 #  - title:             Experience
 #    url:               /#experience
   - title:             Projects
