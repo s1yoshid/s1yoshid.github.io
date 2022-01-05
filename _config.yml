@@ -73,8 +73,8 @@ copyright:             © 2021 Shuusei Yoshida. All rights reserved.
 permalink:             /:categories/:year-:month-:day-:title/
 
 # Pagination configuration (used by the `blog` layout)
-paginate:              10
-paginate_path:         /:num/
+# paginate:              10
+# paginate_path:         /:num/
 
 
 # Theme
@@ -160,7 +160,7 @@ defaults:
         type:          WebPage
 
 kramdown:
-  math_engine:         katex
+  math_engine:         mathjax
   math_engine_opts:    {}
   footnote_backlink:   '&#x21a9;&#xfe0e;'
 
