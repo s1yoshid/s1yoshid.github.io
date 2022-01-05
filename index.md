@@ -39,27 +39,42 @@ Hydejack is all static sites. _HTML_. All you need is a web server --- any web s
 
 <h1 class="h1" id="projects">Projects </h1>
 
-## [Scriptor]{:.heading.flip-title}
-
-A UCSD-specific tool to search podcasts for keywords to obtain relevant timestamps and retrieve podcast transcripts.
-
 ## [Get Posturized]{:.heading.flip-title}
 
 A prototype posture correction device using gyroscope technology.
+
+## [IR Remote Calculator]{:.heading.flip-title}
+
+A calculator on a Basys-3 FPGA that uses an IR
+receiver for inputs and displays the result on a 7-segment
+display.
+
+## [Bitcoin Hashing]{:.heading.flip-title}
+
+A simple bitcoin hashing block using the SHA-256
+algorithm in SystemVerilog.
 
 ## [Superscalar In-order CPU]{:.heading.flip-title}
 
 A superscalar in-order pipeline CPU with branch prediction, hardware prefetching, and value prediction in Systemverilog.
 
-<h1 class="h1" id="key-skills">Key Skills </h1>
+## [Scriptor]{:.heading.flip-title}
 
-|       |       |
-|:-----------|:---------------|
+A UCSD-specific tool to search podcasts for keywords to obtain relevant timestamps and retrieve podcast transcripts.
+
+<h1 class="h1" id="skills-tools">Skills & Tools </h1>
+
+|                        |                                |
+|:-----------------------|:-------------------------------|
 |**C, C++, Java, Python**|**VHDL, Verilog, SystemVerilog**|
-|**MATLAB**|**Arduino**|
-|**Intel Quartus Prime**|**ModelSim**|
-|**PSpice**|**Signal Generator, Oscilloscope, Digital Multimeter**|
+|**MATLAB**              |**Arduino UNO**                 |
+|**Xilinx Vivado**       |**Xilinx Vitis**                |
+|**Intel Quartus Prime** |**ModelSim**                    |
+|**OrCAD PSpice**        |**Signal Generator**            |
+|**Oscilloscope**        |**Digital Multimeter**          |
+|**Arty S7 FPGA Board**  |**BASYS-3 FPGA Board**          |
 {:.stretch-table}
+{:.larger}
 
 <h1 class="h1" id="hobbies">Hobbies </h1>
 
@@ -79,3 +94,5 @@ A superscalar in-order pipeline CPU with branch prediction, hardware prefetching
 [scriptor]: /scriptor
 [get posturized]: /get-posturized
 [Superscalar In-order CPU]: /cpu
+[IR Remote Calculator]: /calculator
+[Bitcoin Hashing]: /bitcoin
