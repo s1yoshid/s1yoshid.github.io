@@ -104,6 +104,7 @@ One way of optimizing the SHA-256 model was to change the 'Word Expansion' algor
 
 ### Developing the bitcoin hashing RTL model
 
+![Bitcoin process](/projects/assets/img/Capture1.JPG)
 ![Bitcoin RTL model](/projects/assets/img/bitcoin-model.JPG)
 
 For the bitcoin hashing algorithm, we used a modified version of the simplified SHA256
